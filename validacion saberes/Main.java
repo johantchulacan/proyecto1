@@ -1,3 +1,4 @@
+// Clase principal para ejecutar el programa
 public class Main {
     public static void main(String[] args) {
         // Crear fotos
